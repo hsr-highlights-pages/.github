@@ -1,0 +1,11 @@
+崩壊：スターレイルのバージョン毎に公開される特設ページの非公式アーカイブです。  
+手動で日本語のデータのみ収集しています。
+
+<details>
+<summary>バージョンリスト</summary>
+
+- [v1.1 銀河漫遊](https://hsr-highlights-pages.github.io/e20230313version-4j4a57)
+
+</details>
+
+© All rights reserved by miHoYo. Other properties belong to their respective owners.
