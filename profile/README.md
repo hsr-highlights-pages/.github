@@ -4,6 +4,7 @@
 <details>
 <summary>バージョンリスト</summary>
 
+- [v1.5 迷離幻夜譚](https://hsr-highlights-pages.github.io/e20231018version-5kx3qh)
 - [v1.4 冬の夢から目覚めて](https://hsr-highlights-pages.github.io/e20230929version-rpg)
 - [v1.3 業塵を映す天鏡](https://hsr-highlights-pages.github.io/e20230818version-u88u8o)
 - [v1.2 仙骸に果て有り](https://hsr-highlights-pages.github.io/e20230708version-8138dd)
